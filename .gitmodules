@@ -1,0 +1,6 @@
+[submodule "lib"]
+	path = lib
+	url = https://crapas1974@github.com/crapas1974/hm_sub1.git
+[submodule "component"]
+	path = component
+	url = https://crapas1974@github.com/crapas1974/pvc_sub2.git
